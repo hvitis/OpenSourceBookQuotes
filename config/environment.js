@@ -35,11 +35,13 @@ module.exports = function(environment) {
         },
         {
           label: "About it",
-          route: "aboutit"
+          route: "aboutit",
+          id: 'aboutit'
         },
         {
           label: "Subscribe",
-          route: "subscribe"
+          route: "subscribe",
+          id: "subscribe"
         }
       ]
     }

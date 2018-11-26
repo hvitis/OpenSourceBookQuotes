@@ -1,8 +1,6 @@
 #site-main {
     background-color: rgb(223, 232, 243);
 }
-.site-description {
-    margin-left: -80px;}
 
 
     .site-header-content {
@@ -14,4 +12,6 @@
         min-height: 200px;
         max-height: 450px;
         /* text-align: center; */
+        margin-left: -80px;}
+
     }
