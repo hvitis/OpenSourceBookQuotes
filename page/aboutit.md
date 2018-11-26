@@ -147,10 +147,10 @@ img[src$="#full"] {
 
 This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles.
 
+
 ## Full HTML
 
 Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WJgpDyP9ewQ?rel=0&amp;showinfo=0" frameborder="0"  allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJgpDyP9ewQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
