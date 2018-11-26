@@ -162,5 +162,6 @@ Another way to insert links in markdown is using reference lists. You might want
 
 Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WJgpDyP9ewQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJgpDyP9ewQ?rel=0&amp;showinfo=0" frameborder="0"  allowfullscreen></iframe>
+
 
