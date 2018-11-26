@@ -4,23 +4,24 @@ image: /images/sand.jpg
 imageMeta:
   attribution: Kiosaki
   attributionLink: https://unsplash.com/photos/8lnbXtxFGZw
-featured: true
+featured:
 author: hvitis
 date: Tue Jun 12 2018 17:50:59 GMT+0100 (IST)
 tags:
   - economy
+  - money
+  - savings
 ---
 
 ## Rich Dad, Poor Dad
-### Robert T. Kiyosaki
+### by Robert T. Kiyosaki
 
-This book was bought by me a few years ago I think. I bought it in polish and have it untill this day. Unfortunately I did not read it at that time. It seemed cliche for me. Maybe because of translation, I don't know. Now I'm reading it in Spanish and I'm really satistied. I'm learning Spanish and the sound of economic vocabulary is great in that language.
-
+This book was bought by me a few years ago I think. I bought it in polish and have it until this day. Unfortunately I did not read it at that time. It seemed cliche for me. Maybe because of translation, I don't know. Now I'm reading it in Spanish and I'm really satisfied. I'm learning Spanish and the sound of economic vocabulary is great in that language.
 
 
 > Las oportunidades van y vienen, y ser capaz de tomar decisiones es una habilidad fundamental.
 
-That is why I'm always trying to catch the opportunities. That's why I always write them down, I always try to follow them - maybe it's childish because I never will get all of them but I'm just giving life a chance in monents that are worth it.
+That is why I'm always trying to catch the opportunities. That's why I always write them down, I always try to follow them - maybe it's childish because I never will get all of them but I'm just giving life a chance in moments that are worth it.
 
 > La majorparte del tiempo no te habla, solo te va empujando por ahi. Sin embargo, cada empujon es su forma de decir: "Despierta, hay algo que quiero que aprendas.
 
@@ -28,7 +29,7 @@ I had this exactly moment in my life when I was with my ex for too long. I was d
 
 > Siempre me piden un empleo y una nomina, pero nunca conocimiento. Es por eso que la gran mayoria pasara los mejores años de su vida trabajando para obtener dinero, sin entender a fondo por que lo hace.
 
-Well, asking your boss about his experience just to create same enterprice as he has to increase the level of competition and make his life worse is not a good idea - if you want to persist in your position. There are fortunately people who tell to everyone what and how they do things (Warren Buffet or Elon Musk).
+Well, asking your boss about his experience just to create same enterprise as he has to increase the level of competition and make his life worse is not a good idea - if you want to persist in your position. There are fortunately people who tell to everyone what and how they do things (Warren Buffet or Elon Musk).
 
 > La mayoria de las personas quieren que los demas cambien, pero ellas no estan dispuestas a hacerlo. Es mas facil cambiarte a ti que a los demas.
 
@@ -36,11 +37,11 @@ This is very powerful phrase and can help everyone with his problems. People who
 
 > El miedo es lo que hace que la mayoria de la gente trabaje para consequir dinero: el miedo a no poder pagar sus facturas; el miedo a ser despedidos; el miedo a no tener suficiente dinero y el miedo a empezar de nuevo.
 
-This book is for everyone since it can help just about anyone. First I was thinking that author generalizes to get more readers and not everyone will have his own company because not everyone has qualities of enterprenuer or a leader. Later I understood that this book can help also people who want to have a better job, or maybe they want to change the attitude in their work and "unslave" a bit. Pushing a bit towards the light is always good.
+This book is for everyone since it can help just about anyone. First I was thinking that author generalizes to get more readers and not everyone will have his own company because not everyone has qualities of entrepreneur or a leader. Later I understood that this book can help also people who want to have a better job, or maybe they want to change the attitude in their work and "unslave" a bit. Pushing a bit towards the light is always good.
 
 > Muchos desean consequir dinero porque creen que con el pueden comprar felicidad. Sin embargo, la felicidad que trae el dinero consigo dura poco.
 
-Sometimes I find myself really dreaming about an object, for example about a car that I don't need or another unicycle. It is true that the power of marketing and our times planted a seed in peoples head that objects bring happiness and it's true, a new Tesla would make me really happy, but after that I would got accusstomed to it and I would not use it much. It's crucial to buy things that are really necessary but how to do it? Postpone the shopping as long as possible?
+Sometimes I find myself really dreaming about an object, for example about a car that I don't need or another unicycle. It is true that the power of marketing and our times planted a seed in peoples head that objects bring happiness and it's true, a new Tesla would make me really happy, but after that I would got accustomed to it and I would not use it much. It's crucial to buy things that are really necessary but how to do it? Postpone the shopping as long as possible?
 
 > En realidad lo que me interesa no es que aprendais a hacer montones de dinero, pues no os servira para enrentaros al miedo o al deseo. Incluso si llegais a ser ricos, si no aprendeis a manejar estas emociones, solo os habreis convertido en esclavos bien pagados.
 
