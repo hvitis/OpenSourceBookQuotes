@@ -1,17 +1,15 @@
 #site-main {
-    background-color: rgb(223, 232, 243);
+  background-color: rgb(223, 232, 243);
 }
 
+.site-header-content {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: start;
+  padding: 10vw 4vw;
+  min-height: 200px;
+  max-height: 450px;
+  /* text-align: center; */
 
-    .site-header-content {
-        display: flex;
-        flex-direction: column;
-        /* justify-content: center; */
-        align-items: start;
-        padding: 10vw 4vw;
-        min-height: 200px;
-        max-height: 450px;
-        /* text-align: center; */
-        margin-left: -80px;}
-
-    }
+}
