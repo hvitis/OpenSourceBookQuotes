@@ -8,7 +8,7 @@ featured:
 author: hvitis
 date: Tue Jun 12 2018 17:50:59 GMT+0100 (IST)
 tags:
-  - economy
+  - economy - polish
 ---
 
 ## Tragedy of Euro
