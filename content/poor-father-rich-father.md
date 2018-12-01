@@ -9,9 +9,6 @@ author: hvitis
 date: Tue Jun 12 2018 17:50:59 GMT+0100 (IST)
 tags:
   - economy
-  - money
-  - savings
-  - Spanish
 ---
 
 ## Rich Dad, Poor Dad
@@ -140,7 +137,7 @@ If I don't know what is a blockchain and why it can have impact on the world I d
 
 > La principal diferencia entre una persona rica y una pobre es la forma en que manejan el miedo. La gente no tiene exito economico porque su miedo a perder dinero es mucho mayor que su anhelo de hacerse rica.
 
-TO sum up I think that the most important quote of the book is about loosing because this is inevitable consequence of taking a risk. You can loose less often knowing more but it's not possible to not loose anything. So...
+To sum up I think that the most important quote of the book is about loosing because this is inevitable consequence of taking a risk. You can loose less often knowing more but it's not possible to not loose anything. So...
 
 > Perder inspira a los ganadores. Y a los perdedores, los vence.
 
