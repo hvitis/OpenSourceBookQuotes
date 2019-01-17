@@ -1,4 +1,4 @@
-# OpenSourceBookQuotes
+# Open Source Book Quotes
 
 
 This is a repo for people who want to put their quotes from books to the citing.site page.
