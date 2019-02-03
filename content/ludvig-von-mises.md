@@ -1,5 +1,5 @@
 ---
-title: Human Actions
+title: Human Action
 image: /images/stairs.jpg
 imageMeta:
   attribution: LvM
