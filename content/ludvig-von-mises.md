@@ -8,7 +8,7 @@ featured: true
 author: hvitis
 date: Tue Jun 12 2018 17:50:59 GMT+0100 (IST)
 tags:
-  - economy 
+  - economy
   - freedom
 ---
 
@@ -30,4 +30,28 @@ I have finally found some time to write down all the best quotes from volume one
 
 > A third condition is required: the expectation that purposeful behaviour has the power to remove or at least to alleviate the felt uneasiness.
 
- 
+> There is no standard of greater or lesser satisfaction other than individual judgments of value, different for various people and for the same people at various times.
+
+> However unfathomable the depths may be from which an impulse or instunct emerges, the means which man chooses for its satisfaction are determined by a rational consideration of expense and success.
+
+> Man is the being that has inhibitions, that can master his impulses and desires, that has the power to suppress instinctive desires and impulses.
+
+> It is true that the changes brought about by human action are but trifling when compared with the effects of the operation of the great cosmis forces.
+
+> Action is the essence of his nature and existence, his means of preserving his life and raising himself above the level of animals and plants. However perishable evanescent all human efforts may be, for man and for human science they are of primary importance.
+
+> The ultimate end of action is always the satisfaction of some desires of the acting man. Since nobody is in a position to substitute his own value judgments for those of the acting individual, it is vain to pass judgment on other people's aims and volitions. No man is qualified to declare what would make another man happier or less discontended.
+
+> It is mistake to assume that the desire to procure the bare necessities of life and health is more rational, natural, or justified than the striving after other goods or amenities.
+
+> To live is for man the outcome of coice, of a judgment of value.
+
+> It is a fact that human reason is not infallible and that man very often errs in selecting and applying means.
+
+> Praxeology deals with the ways and means chose for the attainment of such ultimate ends. Its object is means, not ends. The only standard which it applies is whether or not the means chosen are fit for the attainment of the ends aimed at.
+
+> The subject matter of all historical sciences is the past. They cannot teach us anything which would be valid for all human actions, that is, for the future too. The study of history makes a man wise and judicious. But it does not by itself provide any knowledge and skill which could be utilized for handling concrete tasks.
+
+> Nothing suggests that logic as we know it is the last and final stage of intellectual evolution. Human logic is a historical phase between prehuman nonlogic on the one hand and superhuman logic on the other hand.
+
+>
