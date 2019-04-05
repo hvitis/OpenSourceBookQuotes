@@ -12,4 +12,4 @@ Short instruction on how to cooperate:
 2. Find posts files and Create one (don't forget about creating your account)
 3. Commit the changes to your branch and ask for pull request
 4. Your changes will appear once they are approved (we don't want spam or nasty pictures)
-5. Your quotes are visible on the webpage for all the world
+5. Your quotes are visible on the webpage all over the world
